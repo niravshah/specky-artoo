@@ -1,0 +1,16 @@
+p {
+  color: red;
+  font-size: 14px;
+}
+
+.specky-container{  
+  position:absolute;
+  z-index:99;
+  top:200px;
+  left:200px;
+  width:200px;
+  height:200px;
+  background-color:white;
+  border:2px solid black;
+  box-shadow: 10px 10px 5px #888888;
+}

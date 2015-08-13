@@ -1,0 +1,18 @@
+{
+  "name": "specky",
+  "version": "0.0.1",
+  "description": "Specky Bookmarklet",
+  "scripts": {
+    "start": "gulp work"
+  },
+  "main": "Specky.js",
+  "dependencies": {
+    "gulp": "~3.8.6",
+    "gulp-artoo": "*",
+    "gulp-concat": "~2.3.4",
+    "gulp-if": "~1.2.4",
+    "gulp-uglify": "~0.3.1",
+    "gulp-webserver": "~0.5.0",
+    "gulp-rename": "~1.2.0"
+  }
+}
